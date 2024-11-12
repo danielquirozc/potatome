@@ -35,8 +35,10 @@ Inicia el Server
 ## Tech Stack
 
 **Client:** NextJS, Eslint: StandardJS, TailwindCSS
+
 **Storage:** Postgresql
-More incoming...
+
+...
 
 
 ## Support
